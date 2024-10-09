@@ -31,7 +31,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/sagnik-05/disease-prediction-ui.git
+git clone https://github.com/aman08-cool/DiagnoCare.git
 cd disease-prediction-ui
 ```
 
