@@ -32,7 +32,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/aman08-cool/DiagnoCare.git
-cd disease-prediction-ui
+cd DiagnoCare
 ```
 
 ### Install Dependencies
